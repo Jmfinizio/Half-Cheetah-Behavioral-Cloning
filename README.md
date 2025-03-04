@@ -18,5 +18,7 @@
 - The output is only the training results, since the Half-Cheetah environment video cannot be rendered in a notebook.
   
 - Ensure that the expert data file is stored in the "Imitation Learning" folder that the notebook file will create for you
+
+- If you are purely curious to see the model performance, look at the .ipynb file and examine outputs.
   
 
